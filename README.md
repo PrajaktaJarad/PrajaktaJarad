@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me 
 
-<!--
-**PrajaktaJarad/PrajaktaJarad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💻 I'm currently working on critical fixes and feature enhancements for a POS system.
+- 📈 I'm currently learning advanced C#, JavaScript, and best practices in software architecture.
+- 👯 I'm looking to collaborate on projects related to full-stack development, receipt/report generation, and system optimization.
+- 🤔 I'm looking for help with improving my DevOps skills and mastering cloud-based deployments.
+- 💬 Ask me about Java, C#, Angular, Node.js, and debugging complex issues in large-scale systems.
+- 😄 Pronouns: She/Her 
+- 📌 Fun fact: Apart from coding, I love sketching and watching dramas in my free time! 🎨🎬
+  
